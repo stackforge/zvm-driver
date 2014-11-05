@@ -1,0 +1,8 @@
+Verified+2: Jenkins
+Code-Review+2: Huang Rui <bjhuangr@cn.ibm.com>
+Workflow+1: Huang Rui <bjhuangr@cn.ibm.com>
+Submitted-by: Jenkins
+Submitted-at: Wed, 05 Nov 2014 01:41:49 +0000
+Reviewed-on: https://review.openstack.org/132515
+Project: stackforge/zvm-driver
+Branch: refs/heads/master
